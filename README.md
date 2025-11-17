@@ -6,9 +6,9 @@
 ---
 
 - [Papers](#papers)
-  - [<span style="color: #E74C3C;">__🔥Generative Recommendation__</span>](#Genrec)
+  - [__🧀Generative Recommendation__](#Genrec)
     - [Surveys](#Genrec_surveys)
-    - [Based on SID](#Genrec_sid)
+    - [🔥Based on SID](#Genrec_sid)
       - [Train from Scratch (Encoder-Decoder)](#Genrec_sid_ed)
       - [Align with LLMs (Decoder-only)](#Genrec_sid_d)
       - [Diffusion Language Models](#Genrec_sid_diff)
@@ -30,9 +30,9 @@
     - [Rating](#Genrec_rating)
     - [CTR](#Genrec_ctr)
     - [Diffusion Model](#Genrec_diff)
-  - [Agentic Recommendation](#Agentic)
+  - [__🧀Agentic Recommendation__](#Agentic)
     - [Surveys](#Agentic_surveys)
-  - [LLM Enhanced Recommendation](#Enhanced)
+  - [__🧀LLM Enhanced Recommendation__](#Enhanced)
     - [Surveys](#Enhanced_surveys)
 - [Codes_Exp](#codes)
 - [Resources](#resources)
