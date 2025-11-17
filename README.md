@@ -41,7 +41,7 @@
 
 ---
 
-# ❤️Papers
+<h1 id="papers">❤️Papers</h1> 
 ## __🧀Generative Recommendation__
 ### Surveys
 ### 🔥Based on SID
