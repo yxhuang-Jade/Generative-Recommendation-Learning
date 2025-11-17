@@ -2,3 +2,4 @@
 ✍️ A personalized yet publicly accessible repository dedicated to Generative Recommendation. This repo will be constantly updated and enriched with paper lists, technical roadmaps, and the reconstruction & implementation of relevant baselines throughout my learning journey. 
 
 ✏️ Notably, the term "Generative Recommendation" is broadly construed here: while SID-based Generative Recommendation serves as the core focus, the repo also places significant emphasis on Agentic Recommendation and other non-sequential recommendation tasks. Diffusion-based generative recommendation will be supplemented in future updates as I advance my learning in this domain. Additionally, a clear distinction is maintained between academic and industrial papers to facilitate targeted exploration.
+---
