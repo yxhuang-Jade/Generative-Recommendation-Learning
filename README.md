@@ -6,7 +6,7 @@
 ---
 
 - [Papers](#papers)
-  - [__<font color="red">Generative Recommendation</font>__](#Genrec)
+  - [__🔥Generative Recommendation__](#Genrec)
     - [Surveys](#Genrec_surveys)
     - [Based on SID](#Genrec_sid)
       - [Train from Scratch (Encoder-Decoder)](#Genrec_sid_ed)
