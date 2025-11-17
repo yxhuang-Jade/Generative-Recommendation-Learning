@@ -5,10 +5,10 @@
 
 ---
 
-- [Papers](#papers)
+- [❤️Papers](#papers)
   - [__🧀Generative Recommendation__](#Genrec)
     - [Surveys](#Genrec_surveys)
-    - [🔥Based on SID](#Genrec_sid)
+    - [🔥Based on SID](#Genrec_sid) - 
       - [Train from Scratch (Encoder-Decoder)](#Genrec_sid_ed)
       - [Align with LLMs (Decoder-only)](#Genrec_sid_d)
       - [Diffusion Language Models](#Genrec_sid_diff)
@@ -34,6 +34,10 @@
     - [Surveys](#Agentic_surveys)
   - [__🧀LLM Enhanced Recommendation__](#Enhanced)
     - [Surveys](#Enhanced_surveys)
-- [Codes_Exp](#codes)
-- [Resources](#resources)
-- [Peoples_follow](#peoples)
+- [❤️‍🔥Codes_Exp](#codes)
+- [❤️Resources](#resources)
+- [❤️Peoples_follow](#peoples)
+
+---
+
+
