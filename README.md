@@ -12,7 +12,7 @@
       - [Train from Scratch (Encoder-Decoder)](#Genrec_sid_ed)
       - [Align with LLMs (Decoder-only)](#Genrec_sid_d)
       - [Diffusion Language Models](#Genrec_sid_diff)
-      - [Technology](#Genrec_sid_tech)
+      - [Technology Classification](#Genrec_sid_tech)
         - [Tokenization](#Genrec_sid_tech_token) 
         - [CF Injection](#Genrec_sid_tech_CF)
         - [Dense Fusion](#Genrec_sid_tech_dense) 
@@ -29,6 +29,7 @@
     - [Based on Title](#Genrec_title)
     - [Rating](#Genrec_rating)
     - [CTR](#Genrec_ctr)
+    - [Rank](#Genrec_rank)
     - [Diffusion Model](#Genrec_diff)
   - [__🧀Agentic Recommendation__](#Agentic)
     - [Surveys](#Agentic_surveys)
@@ -40,4 +41,29 @@
 
 ---
 
-## Papers
+# ❤️Papers
+## __🧀Generative Recommendation__
+### Surveys
+### 🔥Based on SID
+#### Train from Scratch (Encoder-Decoder)
+#### Align with LLMs (Decoder-only)
+#### Diffusion Language Models
+#### Technology Classification
+##### Tokenization
+##### CF Injection
+##### Dense Fusion
+##### Reasoning
+###### Slow Think
+###### Explicit
+##### RL
+##### Personalization
+##### Zero-Shot
+#### Views
+#### Industrial
+##### Kuaishou
+##### Tencent
+### Based on Title
+### Rating
+### Rank
+### CTR
+### Diffusion Model
