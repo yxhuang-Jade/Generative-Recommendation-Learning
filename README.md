@@ -41,23 +41,134 @@
 
 ---
 
-<h1 id="papers">❤️Papers</h1>
-<h2 id="Genrec">🧀Generative Recommendation</h2>
-<h3 id="Genrec_surveys">Surveys</h3>
-<h3 id="Genrec_sid">🔥Based on SID</h3>
-<h4 id="Genrec_sid_ed">Train from Scratch (Encoder-Decoder)</h4>
-<h4 id="Genrec_sid_d">Align with LLMs (Decoder-only)</h4>
-<h4 id="Genrec_sid_diff">Diffusion Language Models</h4>
-<h4 id="Genrec_sid_tech">Technology Classification</h4>
-<h5 id="Genrec_sid_tech_token">Tokenization</h5>
-<h5 id="Genrec_sid_tech_CF">CF Injection</h5>
-<h5 id="Genrec_sid_tech_dense">Dense Fusion</h5>
-<h5 id="Genrec_sid_tech_reason">Reasoning</h5>
-<h6 id="#Genrec_sid_tech_reason_latent">Latent</h6>
-<h6 id="Genrec_sid_tech_reason_explicit">Explicit</h6>
-<h5 id="Genrec_sid_tech_rl">RL</h5>
+<br>
 
-<h5 id="Genrec_sid_tech_personal">Personalization</h5>
+---
+<h1 align="center" id="papers">❤️ Papers</h1>
+---
+
+<br>
+
+<br>
+
+---
+<h2 align="center" id="Genrec">🧀 Generative Recommendation</h2>
+---
+
+<br>
+
+<br>
+
+---
+<h3 align="center" id="Genrec_surveys">Surveys</h3>
+---
+
+<br>
+
+<br>
+
+---
+<h3 align="center" id="Genrec_sid">🔥 Based on SID</h3>
+---
+
+<br>
+
+<br>
+
+---
+<h4 align="center" id="Genrec_sid_ed">Train from Scratch (Encoder-Decoder)</h4>
+---
+
+<br>
+
+<br>
+
+---
+<h4 align="center" id="Genrec_sid_d">Align with LLMs (Decoder-only)</h4>
+---
+
+<br>
+
+<br>
+
+---
+<h4 align="center" id="Genrec_sid_diff">Diffusion Language Models</h4>
+---
+
+<br>
+
+<br>
+
+---
+<h4 align="center" id="Genrec_sid_tech">Technology Classification</h4>
+---
+
+<br>
+
+<br>
+
+---
+<h5 align="center" id="Genrec_sid_tech_token">Tokenization</h5>
+---
+
+<br>
+
+<br>
+
+---
+<h5 align="center" id="Genrec_sid_tech_CF">CF Injection</h5>
+---
+
+<br>
+
+<br>
+
+---
+<h5 align="center" id="Genrec_sid_tech_dense">Dense Fusion</h5>
+---
+
+<br>
+
+<br>
+
+---
+<h5 align="center" id="Genrec_sid_tech_reason">Reasoning</h5>
+---
+
+<br>
+
+<br>
+
+---
+<h6 align="center" id="Genrec_sid_tech_reason_latent">Latent</h6>
+---
+
+<br>
+
+<br>
+
+---
+<h6 align="center" id="Genrec_sid_tech_reason_explicit">Explicit</h6>
+---
+
+<br>
+
+<br>
+
+---
+<h5 align="center" id="Genrec_sid_tech_rl">RL</h5>
+---
+
+<br>
+
+<br>
+
+---
+<h5 align="center" id="Genrec_sid_tech_personal">Personalization</h5>
+---
+
+<br>
+
 <li>
   <p><strong>LWGR: Lagrangian-Constrained Personalized World Knowledge for Generative Recommendation</strong></p>
   <p>作者1, 作者2, …</p>
@@ -78,20 +189,141 @@
   </p>
 </li>
 
-<h4 id="Genrec_sid_tech_cold">Cold-Start</h4>
-<h4 id="Genrec_sid_views">Views</h4>
-<h4 id="Genrec_sid_Indus">Industrial</h4>
-<h5 id="Genrec_sid_Indus_kuaishou">Kuaishou</h5>
-<h5 id="Genrec_sid_Indus_tencent">Tencent</h5>
-<h3 id="Genrec_title">Based on Title</h3>
-<h3 id="Genrec_rating">Rating</h3>
-<h3 id="Genrec_ctr">CTR</h3>
-<h3 id="Genrec_rank">Rank</h3>
-<h3 id="Genrec_diff">Diffusion Model</h3>
-<h2 id="Agentic">🧀Agentic Recommendation</h2>
-<h3 id="Agentic_surveys">Surveys</h3>
-<h2 id="Enhanced">🧀LLM Enhanced Recommendation</h2>
-<h3 id="Enhanced_surveys">Surveys</h3>
-<h1 id="codes">❤️‍🔥Codes_Exp</h1>
-<h1 id="resources">❤️Resources</h1>
-<h1 id="peoples">❤️Peoples_follow</h1>
+<br>
+
+---
+<h4 align="center" id="Genrec_sid_tech_cold">Cold-Start</h4>
+---
+
+<br>
+
+<br>
+
+---
+<h4 align="center" id="Genrec_sid_views">Views</h4>
+---
+
+<br>
+
+<br>
+
+---
+<h4 align="center" id="Genrec_sid_Indus">Industrial</h4>
+---
+
+<br>
+
+<br>
+
+---
+<h5 align="center" id="Genrec_sid_Indus_kuaishou">Kuaishou</h5>
+---
+
+<br>
+
+<br>
+
+---
+<h5 align="center" id="Genrec_sid_Indus_tencent">Tencent</h5>
+---
+
+<br>
+
+<br>
+
+---
+<h3 align="center" id="Genrec_title">Based on Title</h3>
+---
+
+<br>
+
+<br>
+
+---
+<h3 align="center" id="Genrec_rating">Rating</h3>
+---
+
+<br>
+
+<br>
+
+---
+<h3 align="center" id="Genrec_ctr">CTR</h3>
+---
+
+<br>
+
+<br>
+
+---
+<h3 align="center" id="Genrec_rank">Rank</h3>
+---
+
+<br>
+
+<br>
+
+---
+<h3 align="center" id="Genrec_diff">Diffusion Model</h3>
+---
+
+<br>
+
+<br>
+
+---
+<h2 align="center" id="Agentic">🧀 Agentic Recommendation</h2>
+---
+
+<br>
+
+<br>
+
+---
+<h3 align="center" id="Agentic_surveys">Surveys</h3>
+---
+
+<br>
+
+<br>
+
+---
+<h2 align="center" id="Enhanced">🧀 LLM Enhanced Recommendation</h2>
+---
+
+<br>
+
+<br>
+
+---
+<h3 align="center" id="Enhanced_surveys">Surveys</h3>
+---
+
+<br>
+
+<br>
+
+---
+<h1 align="center" id="codes">❤️‍🔥 Codes_Exp</h1>
+---
+
+<br>
+
+<br>
+
+---
+<h1 align="center" id="resources">📂 ❤️ Resources</h1>
+---
+
+<br>
+
+- 资源1
+- 资源2
+
+<br>
+
+---
+<h1 align="center" id="peoples">❤️ Peoples_follow</h1>
+---
+
+<br>
