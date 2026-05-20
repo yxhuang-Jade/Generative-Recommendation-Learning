@@ -56,7 +56,11 @@
 <h6 id="#Genrec_sid_tech_reason_latent">Latent</h6>
 <h6 id="Genrec_sid_tech_reason_explicit">Explicit</h6>
 <h5 id="Genrec_sid_tech_rl">RL</h5>
+
 <h5 id="Genrec_sid_tech_personal">Personalization</h5>
+- **LWGR: Lagrangian-Constrained Personalized World Knowledge for Generative Recommendation**  
+  *Authors: ...* | [arXiv 2605.18771v1](https://arxiv.org/abs/2605.18771v1) | `Personalization` `Generative Rec`
+
 <h4 id="Genrec_sid_tech_cold">Cold-Start</h4>
 <h4 id="Genrec_sid_views">Views</h4>
 <h4 id="Genrec_sid_Indus">Industrial</h4>
