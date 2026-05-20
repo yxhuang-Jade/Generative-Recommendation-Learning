@@ -161,14 +161,16 @@
 <br>
 
 <li>
-  <p><strong>LWGR: Lagrangian-Constrained Personalized World Knowledge for Generative Recommendation</strong></p>
+  <p>
+    <strong>LWGR: Lagrangian-Constrained Personalized World Knowledge for Generative Recommendation</strong>
+    <a href="https://arxiv.org/abs/2605.18771"><img src="https://img.shields.io/badge/arXiv-2605.18771-green?style=flat" alt="arXiv"></a>
+  </p>
   <p>Lingyu Mu, Hao Deng, Haibo Xing, Kaican Lin, Zhitong Zhu, Yu Zhang, Xiaoyi Zeng, Zhengxiao Liu, Zheng Lin, Jinxin Hu</p>
   <p>
-    <a href="https://arxiv.org/abs/2605.18771"><img src="https://img.shields.io/badge/arXiv-2605.18771-green?style=flat" alt="arXiv"></a>
     [<a href="https://arxiv.org/abs/2605.18771" target="_blank">paper</a>]
     [<a href="#" target="_blank">code</a>]
     <details>
-      <summary>bib</summary>
+      <summary>[bib]</summary>
       <pre>
 @article{mu2026lwgr,
   title={LWGR: Lagrangian-Constrained Personalized World Knowledge for Generative Recommendation},
