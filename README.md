@@ -17,11 +17,11 @@
         - [CF Injection](#Genrec_sid_tech_CF)
         - [Dense Fusion](#Genrec_sid_tech_dense) 
         - [Reasoning](#Genrec_sid_tech_reason) 
-          - [Slow Think](#Genrec_sid_tech_reason_slowthink)
+          - [Latent](#Genrec_sid_tech_reason_latent)
           - [Explicit](#Genrec_sid_tech_reason_explicit) 
         - [RL](#Genrec_sid_tech_rl) 
         - [Personalization](#Genrec_sid_tech_personal) 
-        - [Zero-Shot](#Genrec_sid_tech_zeroshot)
+      - [Cold-Start](#Genrec_sid_cold)
       - [Views](#Genrec_sid_views)
       - [Industrial](#Genrec_sid_Indus)
         - [Kuaishou](#Genrec_sid_Indus)
@@ -53,11 +53,11 @@
 <h5 id="Genrec_sid_tech_CF">CF Injection</h5>
 <h5 id="Genrec_sid_tech_dense">Dense Fusion</h5>
 <h5 id="Genrec_sid_tech_reason">Reasoning</h5>
-<h6 id="Genrec_sid_tech_reason_slowthink">Slow Think</h6>
+<h6 id="#Genrec_sid_tech_reason_latent">Latent</h6>
 <h6 id="Genrec_sid_tech_reason_explicit">Explicit</h6>
 <h5 id="Genrec_sid_tech_rl">RL</h5>
 <h5 id="Genrec_sid_tech_personal">Personalization</h5>
-<h5 id="Genrec_sid_tech_zeroshot">Zero-Shot</h5>
+<h4 id="Genrec_sid_tech_cold">Cold-Start</h4>
 <h4 id="Genrec_sid_views">Views</h4>
 <h4 id="Genrec_sid_Indus">Industrial</h4>
 <h5 id="Genrec_sid_Indus_kuaishou">Kuaishou</h5>
