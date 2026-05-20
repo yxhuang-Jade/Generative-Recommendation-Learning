@@ -36,7 +36,7 @@
   - [__🧀LLM Enhanced Recommendation__](#enhanced)
     - [Surveys](#enhanced_surveys)
 - [❤️‍🔥Codes_Exp](#codes)
-- [❤️Resources](#resources)
+- [📂Resources](#resources)
 - [❤️Peoples_follow](#peoples)
 
 ---
@@ -296,7 +296,7 @@
 <hr>
 
 <!-- 顶级标题：Resources -->
-<h1 id="resources">📂 ❤️ Resources</h1>
+<h1 id="resources">📂 Resources</h1>
 <hr>
 
 - 资源1
