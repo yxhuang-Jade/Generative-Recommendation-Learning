@@ -169,7 +169,7 @@
     [code]
   </p>
   <p>Lingyu Mu<sup>∗</sup>, Hao Deng<sup>∗</sup>, Haibo Xing, Kaican Lin, Zhitong Zhu, Yu Zhang, Xiaoyi Zeng, Zhengxiao Liu<sup>†</sup>, Zheng Lin<sup>†</sup>, Jinxin Hu</p>
-  <p><i>Engineering, Chinese Academy of Sciences, Alibaba International Digital Commerce Group</i></p>
+  <p><i>Institute of Information Engineering,Chinese; Alibaba International Digital Commerce Group</i></p>
 </li>
 
 <!-- 叶子节点：Cold-Start -->
