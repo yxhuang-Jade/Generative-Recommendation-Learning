@@ -58,8 +58,25 @@
 <h5 id="Genrec_sid_tech_rl">RL</h5>
 
 <h5 id="Genrec_sid_tech_personal">Personalization</h5>
-- **LWGR: Lagrangian-Constrained Personalized World Knowledge for Generative Recommendation**  
-  *Authors: ...* | [arXiv 2605.18771v1](https://arxiv.org/abs/2605.18771v1) | `Personalization` `Generative Rec`
+<li>
+  <p><strong>LWGR: Lagrangian-Constrained Personalized World Knowledge for Generative Recommendation</strong></p>
+  <p>作者1, 作者2, …</p>
+  <p>
+    <strong>[arXiv]</strong>
+    [<a href="https://arxiv.org/abs/2605.18771">paper</a>]
+    [<a href="#">code</a>]
+    <details>
+      <summary>bib</summary>
+      <pre>
+@article{xxx2026lwgr,
+  title={LWGR: ...},
+  author={...},
+  journal={arXiv preprint arXiv:2605.18771},
+  year={2026}
+}</pre>
+    </details>
+  </p>
+</li>
 
 <h4 id="Genrec_sid_tech_cold">Cold-Start</h4>
 <h4 id="Genrec_sid_views">Views</h4>
