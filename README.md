@@ -163,13 +163,15 @@
 <li>
   <p>
     <a href="https://arxiv.org/abs/2605.18771"><img src="https://img.shields.io/badge/arXiv-2605.18771-green?style=flat" alt="arXiv"></a>
+    &nbsp;
+    <img src="https://img.shields.io/badge/TIGER-pink?style=flat" alt="TIGER">
     &nbsp;&nbsp;<strong>LWGR: Lagrangian-Constrained Personalized World Knowledge for Generative Recommendation</strong>
     &nbsp;
     [<a href="https://arxiv.org/pdf/2605.18771" target="_blank">paper</a>]
     [code]
   </p>
   <p>Lingyu Mu<sup>∗</sup>, Hao Deng<sup>∗</sup>, Haibo Xing, Kaican Lin, Zhitong Zhu, Yu Zhang, Xiaoyi Zeng, Zhengxiao Liu<sup>†</sup>, Zheng Lin<sup>†</sup>, Jinxin Hu</p>
-  <p><i>Institute of Information Engineering,Chinese; Alibaba International Digital Commerce Group</i></p>
+  <p><i>Engineering, Chinese Academy of Sciences, Alibaba International Digital Commerce Group</i></p>
 </li>
 
 <!-- 叶子节点：Cold-Start -->
