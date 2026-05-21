@@ -162,9 +162,9 @@
 
 <li>
   <p>
-    <a href="https://arxiv.org/abs/2605.18771"><img src="https://img.shields.io/badge/arXiv-2605.18771-green?style=for-the-badge" alt="arXiv"></a>
+    <a href="https://arxiv.org/abs/2605.18771"><img src="https://img.shields.io/badge/arXiv-2605.18771-green?style=flat" alt="arXiv"></a>
     &nbsp;
-    <img src="https://img.shields.io/badge/TIGER-pink?style=for-the-badge" alt="TIGER">
+    <img src="https://img.shields.io/badge/TIGER-pink?style=flat" alt="TIGER">
     &nbsp;&nbsp;<strong>LWGR: Lagrangian-Constrained Personalized World Knowledge for Generative Recommendation</strong>
     &nbsp;
     [<a href="https://arxiv.org/pdf/2605.18771" target="_blank">paper</a>]
