@@ -15,7 +15,7 @@
 - [❤️Papers](#papers)
   - [__🧀Generative Recommendation__](#genrec)
     - [Surveys](#genrec_surveys)
-    - [🔥Based on SID](#genrec_sid) - 
+    - [🔥Based on SID](#genrec_sid)
       - [Train from Scratch (Encoder-Decoder)](#genrec_sid_ed)
       - [Align with LLMs (Decoder-only)](#genrec_sid_d)
       - [MultiModal](#genrec_sid_mm)
