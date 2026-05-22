@@ -105,8 +105,16 @@
     [<a href="https://arxiv.org/pdf/2605.18920v1" target="_blank">paper</a>]
     [code]
   </p>
-  <p>Wei Chen<sup>∗</sup>, Xingyu Guo<sup>∗</sup>, Shuang Li<sup>†</sup>, Fuwei Zhang, Meng Yuan, Jing Fan, Zhao Zhang, Deqing Wang, Fuzhen Zhuang<sup>†</sup></p>
-  <p><i>School of Artificial Intelligence, Beihang University, Beijing, China; School of Computer Science and Engineering, Beihang University, Beijing, China</i></p>
+  <p>
+    Wei Chen<sup>1∗</sup>, Xingyu Guo<sup>1∗</sup>, Shuang Li<sup>1†</sup>, Fuwei Zhang<sup>1</sup>, Meng Yuan<sup>1</sup>, Jing Fan<sup>1</sup>, 
+    Zhao Zhang<sup>2</sup>, Deqing Wang<sup>2</sup>, Fuzhen Zhuang<sup>1†</sup>
+  </p>
+  <p>
+    <i>
+      <sup>1</sup>School of Artificial Intelligence, Beihang University, Beijing, China; 
+      <sup>2</sup>School of Computer Science and Engineering, Beihang University, Beijing, China
+    </i>
+  </p>
 </li>
 
 <br>
