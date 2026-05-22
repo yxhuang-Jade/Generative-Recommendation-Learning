@@ -95,6 +95,20 @@
 <h4 align="center" id="genrec_sid_mm">MultiModal</h4>
 ---
 
+<li>
+  <p>
+    <a href="https://arxiv.org/abs/2605.18920"><img src="https://img.shields.io/badge/arXiv-2605.18920-green?style=flat" alt="arXiv"></a>
+    &nbsp;
+    <img src="https://img.shields.io/badge/TIGER-pink?style=flat" alt="TIGER">
+    &nbsp;&nbsp;<strong>SynGR: Unleashing the Potential of Cross-Modal Synergy for Generative Recommendation</strong>
+    &nbsp;
+    [<a href="https://arxiv.org/pdf/2605.18920v1" target="_blank">paper</a>]
+    [code]
+  </p>
+  <p>Wei Chen<sup>∗</sup>, Xingyu Guo<sup>∗</sup>, Shuang Li<sup>†</sup>, Fuwei Zhang, Meng Yuan, Jing Fan, Zhao Zhang, Deqing Wang, Fuzhen Zhuang<sup>†</sup></p>
+  <p><i>School of Artificial Intelligence, Beihang University, Beijing, China; School of Computer Science and Engineering, Beihang University, Beijing, China</i></p>
+</li>
+
 <br>
 
 <!-- 叶子节点：Diffusion Language Models -->
