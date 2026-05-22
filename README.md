@@ -5,12 +5,20 @@
 
 ---
 
+# Generative-Recommendation-Learning
+✍️ A personalized yet publicly accessible repository dedicated to Generative Recommendation. This repo will be constantly updated and enriched with paper lists, technical roadmaps, and the reconstruction & implementation of relevant baselines throughout my learning journey. 
+
+✏️ Notably, the term "Generative Recommendation" is broadly construed here: while SID-based Generative Recommendation serves as the core focus, the repo also places significant emphasis on Agentic Recommendation and other non-sequential recommendation tasks. Diffusion-based generative recommendation will be supplemented in future updates as I advance my learning in this domain. Additionally, a clear distinction is maintained between academic and industrial papers to facilitate targeted exploration.
+
+---
+
 - [❤️Papers](#papers)
   - [__🧀Generative Recommendation__](#genrec)
     - [Surveys](#genrec_surveys)
     - [🔥Based on SID](#genrec_sid) - 
       - [Train from Scratch (Encoder-Decoder)](#genrec_sid_ed)
       - [Align with LLMs (Decoder-only)](#genrec_sid_d)
+      - [MultiModal](#genrec_sid_mm)
       - [Diffusion Language Models](#genrec_sid_diff)
       - [Technology Classification](#genrec_sid_tech)
         - [Tokenization](#genrec_sid_tech_token) 
@@ -76,6 +84,15 @@
 
 ---
 <h4 align="center" id="genrec_sid_d">Align with LLMs (Decoder-only)</h4>
+---
+
+<br>
+
+<!-- 叶子节点：MultiModal -->
+<br>
+
+---
+<h4 align="center" id="genrec_sid_mm">MultiModal</h4>
 ---
 
 <br>
