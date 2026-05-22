@@ -209,8 +209,16 @@
     [<a href="https://arxiv.org/pdf/2605.18771" target="_blank">paper</a>]
     [code]
   </p>
-  <p>Lingyu Mu<sup>∗</sup>, Hao Deng<sup>∗</sup>, Haibo Xing, Kaican Lin, Zhitong Zhu, Yu Zhang, Xiaoyi Zeng, Zhengxiao Liu<sup>†</sup>, Zheng Lin<sup>†</sup>, Jinxin Hu</p>
-  <p><i>Engineering, Chinese Academy of Sciences, Alibaba International Digital Commerce Group</i></p>
+  <p>
+    Lingyu Mu<sup>1∗</sup>, Hao Deng<sup>2∗</sup>, Haibo Xing<sup>3</sup>, Kaican Lin<sup>2</sup>, Zhitong Zhu<sup>1</sup>, Yu Zhang<sup>2</sup>, Xiaoyi Zeng<sup>3</sup>, Zhengxiao Liu<sup>1†</sup>, Zheng Lin<sup>1†</sup>, Jinxin Hu<sup>2</sup>
+  </p>
+  <p>
+    <i>
+      <sup>1</sup>Institute of Information Engineering, Chinese Academy of Sciences, Beijing, China;
+      <sup>2</sup>Alibaba International Digital Commerce Group, Beijing, China;
+      <sup>3</sup>Alibaba International Digital Commerce Group, Hangzhou, China
+    </i>
+  </p>
 </li>
 
 <!-- 叶子节点：Cold-Start -->
