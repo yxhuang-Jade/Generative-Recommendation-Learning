@@ -5,13 +5,6 @@
 
 ---
 
-# Generative-Recommendation-Learning
-✍️ A personalized yet publicly accessible repository dedicated to Generative Recommendation. This repo will be constantly updated and enriched with paper lists, technical roadmaps, and the reconstruction & implementation of relevant baselines throughout my learning journey. 
-
-✏️ Notably, the term "Generative Recommendation" is broadly construed here: while SID-based Generative Recommendation serves as the core focus, the repo also places significant emphasis on Agentic Recommendation and other non-sequential recommendation tasks. Diffusion-based generative recommendation will be supplemented in future updates as I advance my learning in this domain. Additionally, a clear distinction is maintained between academic and industrial papers to facilitate targeted exploration.
-
----
-
 - [❤️Papers](#papers)
   - [__🧀Generative Recommendation__](#genrec)
     - [Surveys](#genrec_surveys)
@@ -29,6 +22,7 @@
           - [Explicit](#genrec_sid_tech_reason_explicit) 
         - [RL](#genrec_sid_tech_rl) 
         - [Personalization](#genrec_sid_tech_personal) 
+      - [Accelerated Inference](#genrec_sid_accelerated)
       - [Cold-Start](#genrec_sid_cold)
       - [Views](#genrec_sid_views)
       - [Industrial](#genrec_sid_indus)
@@ -220,6 +214,15 @@
     </i>
   </p>
 </li>
+
+<!-- 叶子节点：Accelerated Inference -->
+<br>
+
+---
+<h4 align="center" id="genrec_sid_accelerated">Accelerated Inference</h4>
+---
+
+<br>
 
 <!-- 叶子节点：Cold-Start -->
 <br>
