@@ -94,7 +94,7 @@
 
 <li>
   <p>
-    <a href="https://arxiv.org/abs/2605.18920"><img src="https://img.shields.io/badge/arXiv-2605.18920-green?style=flat" alt="arXiv"></a>
+    <a href="https://arxiv.org/abs/2605.18920"><img src="https://img.shields.io/badge/ICML2026-FFB300?style=flat" alt="ICML2026"></a>
     &nbsp;
     <img src="https://img.shields.io/badge/TIGER-pink?style=flat" alt="TIGER">
     &nbsp;&nbsp;<strong>SynGR: Unleashing the Potential of Cross-Modal Synergy for Generative Recommendation</strong>
