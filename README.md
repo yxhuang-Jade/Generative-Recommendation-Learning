@@ -37,6 +37,9 @@
     - [Surveys](#agentic_surveys)
   - [__🧀LLM Enhanced Recommendation__](#enhanced)
     - [Surveys](#enhanced_surveys)
+  - [__🧀Generative POI Recommendation__](#genPOIrec)
+    - [LLM-based](#genPOIrec_llm)
+    - [Agentic](#genPOIrec_agnetic)
 - [❤️‍🔥Codes_Exp](#codes)
 - [📂Resources](#resources)
 - [❤️Peoples_follow](#peoples)
@@ -331,6 +334,28 @@
 
 ---
 <h3 align="center" id="enhanced_surveys">Surveys</h3>
+---
+
+<br>
+
+<!-- 新增：Generative POI Recommendation -->
+<a id="genPOIrec"></a>
+## 🧀 Generative POI Recommendation
+
+<!-- 叶子节点：LLM-based -->
+<br>
+
+---
+<h3 align="center" id="genPOIrec_llm">LLM-based</h3>
+---
+
+<br>
+
+<!-- 叶子节点：Agentic -->
+<br>
+
+---
+<h3 align="center" id="genPOIrec_agnetic">Agentic</h3>
 ---
 
 <br>
