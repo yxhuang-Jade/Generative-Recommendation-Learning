@@ -33,6 +33,7 @@
     - [CTR](#genrec_ctr)
     - [Rank](#genrec_rank)
     - [Diffusion Model](#genrec_diff)
+    - [Conversational Rec](#genrec_conv_rec)
   - [__🧀Agentic Recommendation__](#agentic)
     - [Surveys](#agentic_surveys)
   - [__🧀LLM Enhanced Recommendation__](#enhanced)
@@ -338,6 +339,36 @@
 ---
 <h3 align="center" id="genrec_diff">Diffusion Model</h3>
 ---
+
+<br>
+
+<!-- 新增：Conversational Rec（与 Diffusion Model 同级） -->
+<br>
+
+---
+<h3 align="center" id="genrec_conv_rec">Conversational Rec</h3>
+---
+
+<br>
+
+<li>
+  <p>
+    <a href="https://arxiv.org/abs/2605.21987"><img src="https://img.shields.io/badge/arXiv-2605.21987-green?style=flat" alt="arXiv"></a>
+    &nbsp;
+    <strong>Generative Conversational Recommender System</strong>
+    &nbsp;
+    [<a href="https://arxiv.org/pdf/2605.21987" target="_blank">paper</a>]
+    [code]
+  </p>
+  <p>
+    Sixiao Zhang<sup>1</sup>, Mingrui Liu<sup>1</sup>, Cheng Long<sup>1∗</sup>
+  </p>
+  <p>
+    <i>
+      <sup>1</sup>College of Computing and Data Science, Nanyang Technological University, Singapore
+    </i>
+  </p>
+</li>
 
 <br>
 
