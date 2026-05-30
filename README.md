@@ -100,7 +100,7 @@
     &nbsp;&nbsp;<strong>SynGR: Unleashing the Potential of Cross-Modal Synergy for Generative Recommendation</strong>
     &nbsp;
     [<a href="https://arxiv.org/pdf/2605.18920v1" target="_blank">paper</a>]
-    [code]
+    [<a href="https://github.com/gxingyu/SynGR" target="_blank">code</a>]
   </p>
   <p>
     Wei Chen<sup>1∗</sup>, Xingyu Guo<sup>1∗</sup>, Shuang Li<sup>1†</sup>, Fuwei Zhang<sup>1</sup>, Meng Yuan<sup>1</sup>, Jing Fan<sup>1</sup>, 
