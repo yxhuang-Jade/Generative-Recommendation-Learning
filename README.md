@@ -138,6 +138,35 @@
 
 <br>
 
+<li>
+  <p>
+    <a href="https://arxiv.org/abs/2605.25330"><img src="https://img.shields.io/badge/arXiv-2605.25330-green?style=flat" alt="arXiv"></a>
+    &nbsp;
+    <img src="https://img.shields.io/badge/TIGER-pink?style=flat" alt="TIGER">
+    &nbsp;&nbsp;<strong>How Reliable Are Semantic-ID Tokenizer Comparisons in Generative Recommendation?</strong>
+    &nbsp;
+    [<a href="https://arxiv.org/pdf/2605.25330" target="_blank">paper</a>]
+    [code]
+  </p>
+  <p>
+    Qian Zhang<sup>1</sup>, Lech Szymanski<sup>1</sup>, Haibo Zhang<sup>2</sup>, Jeremiah D. Deng<sup>1</sup>
+  </p>
+  <p>
+    <i>
+      <sup>1</sup>School of Computing, University of Otago, Dunedin, New Zealand;
+      <sup>2</sup>University of New South Wales, Sydney, Australia
+    </i>
+  </p>
+  <p>
+    <i>📌 Collision-aware fair evaluation metrics and collision handling.</i>
+  </p>
+  <p>
+    <i>💬 Comment: Offers limited evidence support and modest insights for representation quantification.</i>
+  </p>
+</li>
+
+<br>
+
 <!-- 叶子节点：CF Injection -->
 <br>
 
