@@ -1,4 +1,5 @@
 # Generative-Recommendation-Learning
+
 ✍️ A personalized yet publicly accessible repository dedicated to Generative Recommendation. This repo will be constantly updated and enriched with paper lists, technical roadmaps, and the reconstruction & implementation of relevant baselines throughout my learning journey. 
 
 ✏️ Notably, the term "Generative Recommendation" is broadly construed here: while SID-based Generative Recommendation serves as the core focus, the repo also places significant emphasis on Agentic Recommendation and other non-sequential recommendation tasks. Diffusion-based generative recommendation will be supplemented in future updates as I advance my learning in this domain. Additionally, a clear distinction is maintained between academic and industrial papers to facilitate targeted exploration.
@@ -47,52 +48,33 @@
 
 ---
 
-<!-- 顶级标题 -->
-<h1 id="papers">❤️Papers</h1>
-<hr>
+<h1 align="center" id="papers">❤️ Papers</h1>
 
-<!-- 中间分类标题（下面有子标题）用隐形锚点 + Markdown 二级标题 -->
 <a id="genrec"></a>
-## 🧀 Generative Recommendation
+<h2 align="center">🧀 Generative Recommendation</h2>
 
-<!-- 叶子节点：Surveys -->
-<br>
+<a id="genrec_surveys"></a>
+<h3 align="center">📋 Surveys</h3>
 
 ---
-<h3 align="center" id="genrec_surveys">Surveys</h3>
----
 
-<br>
-
-<!-- 中间分类：Based on SID -->
 <a id="genrec_sid"></a>
-### 🔥 Based on SID
+<h3 align="center">🔥 Based on SID</h3>
 
-<!-- 叶子节点：Train from Scratch (Encoder-Decoder) -->
-<br>
-
----
-<h4 align="center" id="genrec_sid_ed">Train from Scratch (Encoder-Decoder)</h4>
----
-
-<br>
-
-<!-- 叶子节点：Align with LLMs (Decoder-only) -->
-<br>
+<a id="genrec_sid_ed"></a>
+<h4 align="center">Train from Scratch (Encoder-Decoder)</h4>
 
 ---
-<h4 align="center" id="genrec_sid_d">Align with LLMs (Decoder-only)</h4>
----
 
-<br>
-
-<!-- 叶子节点：MultiModal -->
-<br>
+<a id="genrec_sid_d"></a>
+<h4 align="center">Align with LLMs (Decoder-only)</h4>
 
 ---
-<h4 align="center" id="genrec_sid_mm">MultiModal</h4>
----
 
+<a id="genrec_sid_mm"></a>
+<h4 align="center">MultiModal<br><sub>✦ ─────── ✦</sub></h4>
+
+<ul>
 <li>
   <p>
     <a href="https://arxiv.org/abs/2605.18920"><img src="https://img.shields.io/badge/ICML2026-FFB300?style=flat" alt="ICML2026"></a>
@@ -114,31 +96,22 @@
     </i>
   </p>
 </li>
-
-<br>
-
-<!-- 叶子节点：Diffusion Language Models -->
-<br>
+</ul>
 
 ---
-<h4 align="center" id="genrec_sid_diff">Diffusion Language Models</h4>
+
+<a id="genrec_sid_diff"></a>
+<h4 align="center">Diffusion Language Models</h4>
+
 ---
 
-<br>
-
-<!-- 中间分类：Technology Classification -->
 <a id="genrec_sid_tech"></a>
-#### Technology Classification
+<h4 align="center">Technology Classification</h4>
 
-<!-- 叶子节点：Tokenization -->
-<br>
+<a id="genrec_sid_tech_token"></a>
+<h5 align="center">🔹 Tokenization<br><sub>✦ ───────── ✦</sub></h5>
 
----
-<h5 align="center" id="genrec_sid_tech_token">Tokenization</h5>
----
-
-<br>
-
+<ul>
 <li>
   <p>
     <a href="https://arxiv.org/abs/2605.25330"><img src="https://img.shields.io/badge/arXiv-2605.25330-green?style=flat" alt="arXiv"></a>
@@ -165,67 +138,42 @@
     <i>💬 Comment: Offers limited evidence support and modest insights for representation quantification.</i>
   </p>
 </li>
-
-<br>
-
-<!-- 叶子节点：CF Injection -->
-<br>
+</ul>
 
 ---
-<h5 align="center" id="genrec_sid_tech_cf">CF Injection</h5>
----
 
-<br>
-
-<!-- 叶子节点：Dense Fusion -->
-<br>
+<a id="genrec_sid_tech_cf"></a>
+<h5 align="center">🔹 CF Injection</h5>
 
 ---
-<h5 align="center" id="genrec_sid_tech_dense">Dense Fusion</h5>
+
+<a id="genrec_sid_tech_dense"></a>
+<h5 align="center">🔹 Dense Fusion</h5>
+
 ---
 
-<br>
-
-<!-- 中间分类：Reasoning -->
 <a id="genrec_sid_tech_reason"></a>
-##### Reasoning
+<h5 align="center">🧠 Reasoning</h5>
 
-<!-- 叶子节点：Latent -->
-<br>
-
----
-<h6 align="center" id="genrec_sid_tech_reason_latent">Latent</h6>
----
-
-<br>
-
-<!-- 叶子节点：Explicit -->
-<br>
+<a id="genrec_sid_tech_reason_latent"></a>
+<h6 align="center">◈ Latent</h6>
 
 ---
-<h6 align="center" id="genrec_sid_tech_reason_explicit">Explicit</h6>
----
 
-<br>
-
-<!-- 叶子节点：RL -->
-<br>
+<a id="genrec_sid_tech_reason_explicit"></a>
+<h6 align="center">◈ Explicit</h6>
 
 ---
-<h5 align="center" id="genrec_sid_tech_rl">RL</h5>
----
 
-<br>
-
-<!-- 叶子节点：Personalization -->
-<br>
+<a id="genrec_sid_tech_rl"></a>
+<h5 align="center">🔹 RL</h5>
 
 ---
-<h5 align="center" id="genrec_sid_tech_personal">Personalization</h5>
----
 
-<br>
+<a id="genrec_sid_tech_personal"></a>
+<h5 align="center">🔹 Personalization<br><sub>✦ ───────────── ✦</sub></h5>
 
+<ul>
 <li>
   <p>
     <a href="https://arxiv.org/abs/2605.18771"><img src="https://img.shields.io/badge/arXiv-2605.18771-green?style=flat" alt="arXiv"></a>
@@ -247,110 +195,67 @@
     </i>
   </p>
 </li>
-
-<!-- 叶子节点：Accelerated Inference -->
-<br>
+</ul>
 
 ---
-<h4 align="center" id="genrec_sid_accelerated">Accelerated Inference</h4>
----
 
-<br>
-
-<!-- 叶子节点：Cold-Start -->
-<br>
+<a id="genrec_sid_accelerated"></a>
+<h4 align="center">Accelerated Inference</h4>
 
 ---
-<h4 align="center" id="genrec_sid_cold">Cold-Start</h4>
----
 
-<br>
-
-<!-- 叶子节点：Views -->
-<br>
+<a id="genrec_sid_cold"></a>
+<h4 align="center">Cold-Start</h4>
 
 ---
-<h4 align="center" id="genrec_sid_views">Views</h4>
+
+<a id="genrec_sid_views"></a>
+<h4 align="center">Views</h4>
+
 ---
 
-<br>
-
-<!-- 中间分类：Industrial -->
 <a id="genrec_sid_indus"></a>
-#### Industrial
+<h4 align="center">Industrial</h4>
 
-<!-- 叶子节点：Kuaishou -->
-<br>
-
----
-<h5 align="center" id="genrec_sid_indus_kuaishou">Kuaishou</h5>
----
-
-<br>
-
-<!-- 叶子节点：Tencent -->
-<br>
+<a id="genrec_sid_indus_kuaishou"></a>
+<h5 align="center">▪️ Kuaishou</h5>
 
 ---
-<h5 align="center" id="genrec_sid_indus_tencent">Tencent</h5>
----
 
-<br>
-
-<!-- 叶子节点：Based on Title -->
-<br>
+<a id="genrec_sid_indus_tencent"></a>
+<h5 align="center">▪️ Tencent</h5>
 
 ---
-<h3 align="center" id="genrec_title">Based on Title</h3>
----
 
-<br>
-
-<!-- 叶子节点：Rating -->
-<br>
+<a id="genrec_title"></a>
+<h3 align="center">Based on Title</h3>
 
 ---
-<h3 align="center" id="genrec_rating">Rating</h3>
----
 
-<br>
-
-<!-- 叶子节点：CTR -->
-<br>
+<a id="genrec_rating"></a>
+<h3 align="center">⭐ Rating</h3>
 
 ---
-<h3 align="center" id="genrec_ctr">CTR</h3>
----
 
-<br>
-
-<!-- 叶子节点：Rank -->
-<br>
+<a id="genrec_ctr"></a>
+<h3 align="center">📊 CTR</h3>
 
 ---
-<h3 align="center" id="genrec_rank">Rank</h3>
----
 
-<br>
-
-<!-- 叶子节点：Diffusion Model -->
-<br>
+<a id="genrec_rank"></a>
+<h3 align="center">🏆 Rank</h3>
 
 ---
-<h3 align="center" id="genrec_diff">Diffusion Model</h3>
----
 
-<br>
-
-<!-- 新增：Conversational Rec（与 Diffusion Model 同级） -->
-<br>
+<a id="genrec_diff"></a>
+<h3 align="center">🌌 Diffusion Model</h3>
 
 ---
-<h3 align="center" id="genrec_conv_rec">Conversational Rec</h3>
----
 
-<br>
+<a id="genrec_conv_rec"></a>
+<h3 align="center">💬 Conversational Rec<br><sub>✦ ─────────────── ✦</sub></h3>
 
+<ul>
 <li>
   <p>
     <a href="https://arxiv.org/abs/2605.21987"><img src="https://img.shields.io/badge/arXiv-2605.21987-green?style=flat" alt="arXiv"></a>
@@ -369,68 +274,48 @@
     </i>
   </p>
 </li>
+</ul>
 
-<br>
+---
 
-<!-- 中间分类：Agentic Recommendation -->
 <a id="agentic"></a>
-## 🧀 Agentic Recommendation
+<h2 align="center">🧀 Agentic Recommendation</h2>
 
-<!-- 叶子节点：Surveys -->
-<br>
+<a id="agentic_surveys"></a>
+<h3 align="center">📋 Surveys</h3>
 
 ---
-<h3 align="center" id="agentic_surveys">Surveys</h3>
----
 
-<br>
-
-<!-- 中间分类：LLM Enhanced Recommendation -->
 <a id="enhanced"></a>
-## 🧀 LLM Enhanced Recommendation
+<h2 align="center">🧀 LLM Enhanced Recommendation</h2>
 
-<!-- 叶子节点：Surveys -->
-<br>
+<a id="enhanced_surveys"></a>
+<h3 align="center">📋 Surveys</h3>
 
 ---
-<h3 align="center" id="enhanced_surveys">Surveys</h3>
----
 
-<br>
-
-<!-- 新增：Generative POI Recommendation -->
 <a id="genPOIrec"></a>
-## 🧭 Generative POI Recommendation
+<h2 align="center">🧭 Generative POI Recommendation</h2>
 
-<!-- 叶子节点：LLM-based -->
-<br>
-
----
-<h3 align="center" id="genPOIrec_llm">LLM-based</h3>
----
-
-<br>
-
-<!-- 叶子节点：Agentic -->
-<br>
+<a id="genPOIrec_llm"></a>
+<h3 align="center">🤖 LLM-based</h3>
 
 ---
-<h3 align="center" id="genPOIrec_agnetic">Agentic</h3>
+
+<a id="genPOIrec_agnetic"></a>
+<h3 align="center">🕵️ Agentic</h3>
+
 ---
 
-<br>
+<h1 align="center" id="codes">❤️‍🔥 Codes_Exp</h1>
 
-<!-- 顶级标题：Codes_Exp -->
-<h1 id="codes">❤️‍🔥 Codes_Exp</h1>
-<hr>
+---
 
-<!-- 顶级标题：Resources -->
-<h1 id="resources">📂 Resources</h1>
-<hr>
+<h1 align="center" id="resources">📂 Resources</h1>
 
 - 资源1
 - 资源2
 
-<!-- 顶级标题：Peoples_follow -->
-<h1 id="peoples">❤️ Peoples_follow</h1>
-<hr>
+---
+
+<h1 align="center" id="peoples">❤️ Peoples_follow</h1>
