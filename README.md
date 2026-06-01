@@ -184,6 +184,25 @@
     </i>
   </p>
 </li>
+<li>
+  <p>
+    <a href="https://arxiv.org/abs/2605.11553v1"><img src="https://img.shields.io/badge/arXiv-2605.11553-green?style=flat" alt="arXiv"></a>
+    &nbsp;
+    <img src="https://img.shields.io/badge/Agent-pink?style=flat" alt="Agent">
+    &nbsp;&nbsp;<strong>TwiSTAR: Think Fast, Think Slow, Then Act, Generative Recommendation with Adaptive Reasoning</strong>
+    &nbsp;
+    [<a href="https://arxiv.org/pdf/2605.11553v1" target="_blank">paper</a>]
+    [code]
+  </p>
+  <p>
+    Shiteng Cao, Kaian Jiang, Yunlong Gong, Zhiheng Li
+  </p>
+  <p>
+    <i>
+      Shenzhen International Graduate School, Tsinghua University
+    </i>
+  </p>
+</li>
 </ul>
 
 ---
