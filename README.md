@@ -72,7 +72,7 @@
 ---
 
 <a id="genrec_sid_mm"></a>
-<h4 align="center">MultiModal<br><sub>✦ ─────── ✦</sub></h4>
+<h4 align="center">MultiModal<br></h4>
 
 <ul>
 <li>
@@ -109,7 +109,7 @@
 <h4 align="center">Technology Classification</h4>
 
 <a id="genrec_sid_tech_token"></a>
-<h5 align="center">🔹 Tokenization<br><sub>✦ ───────── ✦</sub></h5>
+<h5 align="center">🔹 Tokenization<br></h5>
 
 <ul>
 <li>
@@ -163,6 +163,29 @@
 <a id="genrec_sid_tech_reason_explicit"></a>
 <h6 align="center">◈ Explicit</h6>
 
+<ul>
+<li>
+  <p>
+    <a href="https://arxiv.org/abs/2605.17648v1"><img src="https://img.shields.io/badge/arXiv-2605.17648-green?style=flat" alt="arXiv"></a>
+    &nbsp;
+    <img src="https://img.shields.io/badge/SIDReasoner-pink?style=flat" alt="SIDReasoner">
+    &nbsp;&nbsp;<strong>SAPO: Step-Aligned Policy Optimization for Reasoning-Based Generative Recommendation</strong>
+    &nbsp;
+    [<a href="https://arxiv.org/pdf/2605.17648v1" target="_blank">paper</a>]
+    [<a href="https://github.com/zhengzaiyi/SAPO" target="_blank">code</a>]
+  </p>
+  <p>
+    Zaiyi Zheng<sup>1</sup>, Guanghui Min<sup>1</sup>, Yaochen Zhu<sup>1</sup>, Liang Wu<sup>2</sup>, Liangjie Hong<sup>2</sup>, Chen Chen<sup>1</sup>, Jundong Li<sup>1</sup>
+  </p>
+  <p>
+    <i>
+      <sup>1</sup>University of Virginia, USA;
+      <sup>2</sup>Nokia, USA
+    </i>
+  </p>
+</li>
+</ul>
+
 ---
 
 <a id="genrec_sid_tech_rl"></a>
@@ -171,7 +194,7 @@
 ---
 
 <a id="genrec_sid_tech_personal"></a>
-<h5 align="center">🔹 Personalization<br><sub>✦ ───────────── ✦</sub></h5>
+<h5 align="center">🔹 Personalization<br></h5>
 
 <ul>
 <li>
@@ -253,7 +276,7 @@
 ---
 
 <a id="genrec_conv_rec"></a>
-<h3 align="center">💬 Conversational Rec<br><sub>✦ ─────────────── ✦</sub></h3>
+<h3 align="center">💬 Conversational Rec<br></h3>
 
 <ul>
 <li>
