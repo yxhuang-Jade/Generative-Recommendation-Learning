@@ -262,7 +262,31 @@
 <a id="genrec_sid_indus_kuaishou"></a>
 <h5 align="center">▪️ Kuaishou</h5>
 
----
+<ul>
+<li>
+  <p>
+    <a href="https://arxiv.org/abs/2606.06260v1"><img src="https://img.shields.io/badge/arXiv-2606.06260-green?style=flat" alt="arXiv"></a>
+    &nbsp;
+    <img src="https://img.shields.io/badge/SIDReasoner-pink?style=flat" alt="SIDReasoner">
+    &nbsp;
+    <img src="https://img.shields.io/badge/OneReason-blueviolet?style=flat" alt="OneReason">
+    &nbsp;&nbsp;<strong>OneReason Technical Report</strong>
+    &nbsp;
+    [<a href="https://arxiv.org/pdf/2606.06260v1" target="_blank">paper</a>]
+  </p>
+  <p>
+    OneRec Team
+  </p>
+  <p>
+    <i>
+      Kuaishou
+    </i>
+  </p>
+  <p>
+    <i>📌 Technical report; model and data not yet open-sourced.</i>
+  </p>
+</li>
+</ul>
 
 <a id="genrec_sid_indus_tencent"></a>
 <h5 align="center">▪️ Tencent</h5>
