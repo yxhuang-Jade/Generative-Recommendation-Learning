@@ -278,11 +278,6 @@
     OneRec Team
   </p>
   <p>
-    <i>
-      Kuaishou
-    </i>
-  </p>
-  <p>
     <i>📌 Technical report; model and data not yet open-sourced.</i>
   </p>
 </li>
