@@ -366,6 +366,32 @@
 <a id="genPOIrec_agnetic"></a>
 <h3 align="center">🕵️ Agentic</h3>
 
+<ul>
+<li>
+  <p>
+    <a href="https://arxiv.org/abs/2606.08122"><img src="https://img.shields.io/badge/arXiv-2606.08122-green?style=flat" alt="arXiv"></a>
+    &nbsp;
+    <img src="https://img.shields.io/badge/Agent%20as%20Rec-pink?style=flat" alt="Agent as Rec">
+    &nbsp;&nbsp;<strong>Think Before You Act: Intention-Guided Reasoning for LLM-Based Location Prediction</strong>
+    &nbsp;
+    [<a href="https://arxiv.org/pdf/2606.08122" target="_blank">paper</a>]
+    [code]
+  </p>
+  <p>
+    Qingxiang Liu<sup>1</sup>, Anqi Liang<sup>2</sup>, Zhuoyang Jiang<sup>1</sup>, Yutian Jiang<sup>1</sup>, Sisuo Lyu<sup>3</sup>, Yu Ji<sup>4</sup>, Haomin Wen<sup>5</sup>, Yuxuan Liang<sup>1∗</sup>
+  </p>
+  <p>
+    <i>
+      <sup>1</sup>The Hong Kong University of Science and Technology (Guangzhou), China;
+      <sup>2</sup>Shanghai Jiao Tong University, China;
+      <sup>3</sup>The Hong Kong University of Science and Technology, Hong Kong;
+      <sup>4</sup>Fudan University, China;
+      <sup>5</sup>Shanghai Innovation Institute, China
+    </i>
+  </p>
+</li>
+</ul>
+
 ---
 
 <h1 align="center" id="codes">❤️‍🔥 Codes_Exp</h1>
