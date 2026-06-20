@@ -69,6 +69,33 @@
 <a id="genrec_sid_d"></a>
 <h4 align="center">Align with LLMs (Decoder-only)</h4>
 
+<ul>
+<li>
+  <p>
+    <a href="https://arxiv.org/abs/2606.17276"><img src="https://img.shields.io/badge/arXiv-2606.17276-green?style=flat" alt="arXiv"></a>
+    &nbsp;
+    <img src="https://img.shields.io/badge/LCRec-pink?style=flat" alt="LCRec">
+    &nbsp;&nbsp;<strong>On the Memorization Behavior of LLMs in Generative Recommendation: Observations, Implications, and Training Strategies</strong>
+    &nbsp;
+    [<a href="https://arxiv.org/pdf/2606.17276v2" target="_blank">paper</a>]
+    [<a href="https://github.com/snap-research/IIRG" target="_blank">code</a>]
+  </p>
+  <p>
+    Sunwoo Kim<sup>1*</sup>, Sunkyung Lee<sup>2*</sup>, Clark Mingxuan Ju<sup>3</sup>, Donald Loveland<sup>3</sup>, Bhuvesh Kumar<sup>3</sup>, Kijung Shin<sup>1</sup>, Neil Shah<sup>3</sup>, Liam Collins<sup>3</sup>
+  </p>
+  <p>
+    <i>
+      <sup>1</sup>KAIST, South Korea;
+      <sup>2</sup>Sungkyunkwan University, South Korea;
+      <sup>3</sup>Snap Inc., USA
+    </i>
+  </p>
+  <p>
+    <i>📌 LLM Memorization</i>
+  </p>
+</li>
+</ul>
+
 ---
 
 <a id="genrec_sid_mm"></a>
