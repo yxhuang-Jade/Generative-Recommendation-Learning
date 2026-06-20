@@ -114,6 +114,29 @@
 <ul>
 <li>
   <p>
+    <a href="https://arxiv.org/abs/2606.14260"><img src="https://img.shields.io/badge/arXiv-2606.14260-green?style=flat" alt="arXiv"></a>
+    &nbsp;
+    &nbsp;&nbsp;<strong>ChronoID: Infusing Explicit Temporal Signals into Semantic IDs for Generative Recommendation</strong>
+    &nbsp;
+    [<a href="https://arxiv.org/pdf/2606.14260v1" target="_blank">paper</a>]
+    [code]
+  </p>
+  <p>
+    Dongdong Nian<sup>1</sup>, Dongqi Fu<sup>2</sup>, Chenliang Xu<sup>1</sup>, Yinglong Xia<sup>2</sup>, Hong Li<sup>2</sup>, Hong Yan<sup>2</sup>, Jian Kang<sup>3</sup>
+  </p>
+  <p>
+    <i>
+      <sup>1</sup>University of Rochester, USA;
+      <sup>2</sup>Meta MRS, USA;
+      <sup>3</sup>MBZUAI, UAE
+    </i>
+  </p>
+  <p>
+    <i>💬 Comment: This paper does not clearly describe the implementation of time embedding, and model parameters and settings are not provided.</i>
+  </p>
+</li>
+<li>
+  <p>
     <a href="https://arxiv.org/abs/2605.25330"><img src="https://img.shields.io/badge/arXiv-2605.25330-green?style=flat" alt="arXiv"></a>
     &nbsp;
     <img src="https://img.shields.io/badge/TIGER-pink?style=flat" alt="TIGER">
