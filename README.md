@@ -454,5 +454,3 @@
 - 资源2
 
 ---
-
-<h1 align="center" id="peoples">❤️ Peoples_follow</h1>
