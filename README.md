@@ -4,6 +4,8 @@
 
 ✏️ Notably, the term "Generative Recommendation" is broadly construed here: while SID-based Generative Recommendation serves as the core focus, the repo also places significant emphasis on Agentic Recommendation and other non-sequential recommendation tasks. Diffusion-based generative recommendation will be supplemented in future updates as I advance my learning in this domain. Additionally, a clear distinction is maintained between academic and industrial papers to facilitate targeted exploration.
 
+🚨 It will start to be updated daily on 26.10.28.
+
 ---
 
 - [❤️Papers](#papers)
