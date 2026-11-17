@@ -4,7 +4,7 @@
 
 ✏️ Notably, the term "Generative Recommendation" is broadly construed here: while SID-based Generative Recommendation serves as the core focus, the repo also places significant emphasis on Agentic Recommendation and other non-sequential recommendation tasks. Diffusion-based generative recommendation will be supplemented in future updates as I advance my learning in this domain. Additionally, a clear distinction is maintained between academic and industrial papers to facilitate targeted exploration.
 
-🚨 Daily updates resume on November 17, 2026. I’m sorry for the pause in updates due to other research commitments. I’ll do my best to stick to the daily schedule going forward.
+🚨 Daily updates resume on November 18, 2026. I’m sorry for the pause in updates due to other research commitments. I’ll do my best to stick to the daily schedule going forward.
 
 ---
 
